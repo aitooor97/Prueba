@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.">
+  <title>¡Cuidado!</title>
+</head>
+
+<body>
+
+  <h1>¡Cuidado!</h1>
+  <p>Porque has abierto el enlace? Ahora podría robarte tus datos. No es seguro, un beso Aitor.</p>
+
+</body>
+
+</html>
+```
